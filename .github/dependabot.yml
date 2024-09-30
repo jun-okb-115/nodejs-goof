@@ -17,4 +17,3 @@ updates:
       - "jun-okb-115"
     commit-message:
       prefix: "dependabot: "
-    open-pull-requests-limit: 1
